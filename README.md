@@ -1,5 +1,6 @@
 
 <h1>Projet : The Gossip Project, les premières views</h1>
+<p>by Victor and Laurence</p>
 
 <h2>Création des première pages de l'application: quelques pages statiques et les pages potins</h2>
 
